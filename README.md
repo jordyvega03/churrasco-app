@@ -62,7 +62,7 @@ App Android desarrollada con Jetpack Compose para administrar productos, inventa
 ---
 
 ## Screenshots
-![Home](<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/250ae096-34bd-42e3-9ed7-a83863a9d7b2" />)  
+![Home](<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/3eecd05d-d6bf-4065-875b-1fe8838a6851" />)  
 ![Dashboard](docs/screenshot_dashboard.png)  
 ![Productos](docs/screenshot_productos.png)  
 ![Inventario](docs/screenshot_inventario.png)  
