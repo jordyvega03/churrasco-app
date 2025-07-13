@@ -62,17 +62,25 @@ App Android desarrollada con Jetpack Compose para administrar productos, inventa
 ---
 
 ## Screenshots
-![Home](<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/3eecd05d-d6bf-4065-875b-1fe8838a6851" />)  
-![Dashboard](docs/screenshot_dashboard.png)  
-![Productos](docs/screenshot_productos.png)  
-![Inventario](docs/screenshot_inventario.png)  
+### INICIO
+![Inicio](https://github.com/user-attachments/assets/3eecd05d-d6bf-4065-875b-1fe8838a6851)
+### DETALLE PRODUCTO
+![Producto](https://github.com/user-attachments/assets/b1fcad41-fda3-4e82-a197-9e1a7764ed18)
+### LOGIN
+![Login](https://github.com/user-attachments/assets/d8cda2bf-64a3-4fdc-ad7f-bc46bc5896c4) 
+### DASHBOARD
+![Dashboard](https://github.com/user-attachments/assets/9969e3be-e11a-49f6-9f73-840f89412f73)
+### SUCURSALES
+![Sucursales](https://github.com/user-attachments/assets/65816251-7252-451e-849f-93c7f16728ba)  
+### INVENTARIOS
+![Inventario](https://github.com/user-attachments/assets/1943d9f8-4072-41c0-b1e7-0b9d045fe1a4)  
 
 ---
 
 ## Autor
 
-Tu Nombre - tu.email@ejemplo.com  
-[GitHub](https://github.com/tuusuario)
+Jordy Vega - jordyvega15@gmail.com  
+[GitHub](https://github.com/jordyvega03)
 
 ---
 
