@@ -61,6 +61,12 @@ App Android desarrollada con Jetpack Compose para administrar productos, inventa
 
 ---
 
+## Video
+### Flujo
+![Inicio](https://github.com/user-attachments/assets/3eecd05d-d6bf-4065-875b-1fe8838a6851)
+
+---
+
 ## Screenshots
 ### INICIO
 ![Inicio](https://github.com/user-attachments/assets/3eecd05d-d6bf-4065-875b-1fe8838a6851)
